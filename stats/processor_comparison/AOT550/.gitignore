@@ -1,0 +1,4 @@
+# External data caches - re-downloadable, not source or results
+merra2_cache/
+aeronet_cache/
+cams_cache/

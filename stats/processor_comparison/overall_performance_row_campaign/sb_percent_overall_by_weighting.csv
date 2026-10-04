@@ -1,0 +1,12 @@
+processor,row_weighted,campaign_weighted,row_weighted_p25,row_weighted_p75,row_weighted_iqr_width,row_vs_campaign_divergence
+C2RCC,-41.755,-48.3,-72.238,-21.172,51.065,6.545
+C2RCC+RAdCor,-33.48,-37.93,-58.0,-13.54,44.46,4.45
+C2RCC+T-Mart,-21.81,-35.655,-35.795,-11.42,24.375,13.845
+Polymer+T-Mart,-6.24,-0.16,-15.102,1.438,16.54,6.08
+Polymer+Radcor,-0.595,5.485,-9.838,9.718,19.555,6.08
+ACOLITE+RAdCor,2.93,25.9,-6.105,61.995,68.1,22.97
+GAAC,4.27,4.45,-10.005,20.148,30.152,0.18
+ACOLITE,5.31,10.31,-2.348,14.93,17.278,5.0
+Polymer,6.72,23.285,-3.765,18.97,22.735,16.565
+ACOLITE+T-Mart,11.98,23.39,-2.7,32.435,35.135,11.41
+RAdCor+ACOLITE,14.26,17.5,5.108,23.48,18.373,3.24

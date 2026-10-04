@@ -1,0 +1,8 @@
+ac_processor,aec_processor,pairing,delta_MSA_CA,delta_MSA_blue,delta_MSA_green,delta_MSA_red,delta_MSA_red_edge
+ACOLITE,ACOLITE+T-Mart,T-Mart + ACOLITE DSF,-27.05,-9.755,-2.955,-10.88,27.6175
+ACOLITE,RAdCor+ACOLITE,RAdCor + ACOLITE DSF,-15.35,-9.84,-0.765,4.94,17.2975
+ACOLITE,ACOLITE+RAdCor,ACOLITE TSDSF + RAdCor,4.185,-9.105,-4.715,-0.375,-20.47
+Polymer,Polymer+T-Mart,T-Mart + POLYMER,34.66,13.955,-2.685,-12.375,1012.165
+Polymer,Polymer+Radcor,RAdCor + POLYMER,17.71,17.51,3.375,-8.14,827.4075
+C2RCC,C2RCC+T-Mart,T-Mart + C2RCC,-4.74,-7.93,15.865,73.59,123.975
+C2RCC,C2RCC+RAdCor,RAdCor + C2RCC,7.83,-0.43,18.245,39.48,83.265
